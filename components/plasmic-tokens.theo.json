@@ -1,0 +1,119 @@
+{
+  "props": [
+    {
+      "name": "Black",
+      "type": "color",
+      "value": "#000000",
+      "category": "color",
+      "meta": {
+        "projectId": "ud9JpUD8N987dWHx7H9cnr",
+        "id": "ncLxh9KLg"
+      }
+    },
+    {
+      "name": "Blue",
+      "type": "color",
+      "value": "#E5F6FF",
+      "category": "color",
+      "meta": {
+        "projectId": "ud9JpUD8N987dWHx7H9cnr",
+        "id": "4RL5POtfr"
+      }
+    },
+    {
+      "name": "Green",
+      "type": "color",
+      "value": "#4EB249",
+      "category": "color",
+      "meta": {
+        "projectId": "ud9JpUD8N987dWHx7H9cnr",
+        "id": "WoaWsDt1f"
+      }
+    },
+    {
+      "name": "Lottery-Background",
+      "type": "color",
+      "value": "#EDF5FA",
+      "category": "color",
+      "meta": {
+        "projectId": "ud9JpUD8N987dWHx7H9cnr",
+        "id": "eVAVhzxyZ"
+      }
+    },
+    {
+      "name": "Purple",
+      "type": "color",
+      "value": "#CA9DFC",
+      "category": "color",
+      "meta": {
+        "projectId": "ud9JpUD8N987dWHx7H9cnr",
+        "id": "ei1ZZx3gp"
+      }
+    },
+    {
+      "name": "Red",
+      "type": "color",
+      "value": "#D71F4D",
+      "category": "color",
+      "meta": {
+        "projectId": "ud9JpUD8N987dWHx7H9cnr",
+        "id": "XxQzpPc18"
+      }
+    },
+    {
+      "name": "Text",
+      "type": "color",
+      "value": "#51526D",
+      "category": "color",
+      "meta": {
+        "projectId": "ud9JpUD8N987dWHx7H9cnr",
+        "id": "BFMBpVgjD"
+      }
+    },
+    {
+      "name": "Yellow",
+      "type": "color",
+      "value": "#FFDBB0",
+      "category": "color",
+      "meta": {
+        "projectId": "ud9JpUD8N987dWHx7H9cnr",
+        "id": "RRPcNTZeb"
+      }
+    },
+    {
+      "name": "gray",
+      "type": "color",
+      "value": "#E5E5E5",
+      "category": "color",
+      "meta": {
+        "projectId": "ud9JpUD8N987dWHx7H9cnr",
+        "id": "Kr8vtyXRt"
+      }
+    },
+    {
+      "name": "sky-blue",
+      "type": "color",
+      "value": "#7276EDEB",
+      "category": "color",
+      "meta": {
+        "projectId": "ud9JpUD8N987dWHx7H9cnr",
+        "id": "vAqFYeb7KLoJK"
+      }
+    },
+    {
+      "name": "white",
+      "type": "color",
+      "value": "#F7F6F2",
+      "category": "color",
+      "meta": {
+        "projectId": "ud9JpUD8N987dWHx7H9cnr",
+        "id": "HS97sd2mc9c-b"
+      }
+    }
+  ],
+  "global": {
+    "meta": {
+      "source": "plasmic.app"
+    }
+  }
+}

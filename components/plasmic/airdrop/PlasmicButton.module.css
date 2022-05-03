@@ -1,0 +1,14 @@
+.root {
+  background: var(--token-ncLxh9KLg);
+  position: relative;
+  justify-content: center;
+  display: flex;
+  flex-direction: row;
+  border-radius: 12px;
+  padding: 8px 16px;
+}
+.slotTargetName {
+  font-size: 16px;
+  color: var(--token-HS97sd2mc9c-b);
+  text-align: center;
+}

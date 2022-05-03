@@ -1,0 +1,58 @@
+.root {
+  display: flex;
+  flex-direction: row;
+  position: relative;
+  width: 100%;
+  height: 3rem;
+  max-width: 958px;
+  align-items: center;
+  justify-content: center;
+  min-width: 0;
+}
+.rootheader {
+  background: var(--token-Kr8vtyXRt);
+}
+.freeBox__limSq {
+  position: relative;
+  width: auto;
+  height: 100%;
+  align-self: center;
+  justify-content: center;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  min-height: 0;
+  padding: 0px 3rem;
+  border: 1px solid var(--token-BFMBpVgjD);
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .freeBox__limSq {
+    padding: 0px 2rem;
+  }
+}
+@media (max-width: 560px) {
+  .freeBox__limSq {
+    padding: 0px 1rem;
+  }
+}
+.slotTargetId {
+  text-align: center;
+  font-size: 18px;
+}
+.freeBox__rduci {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  align-self: center;
+  justify-content: center;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  min-width: 0;
+  min-height: 0;
+  border: 1px solid var(--token-BFMBpVgjD);
+}
+.slotTargetAddress {
+  text-align: center;
+  font-size: 18px;
+}

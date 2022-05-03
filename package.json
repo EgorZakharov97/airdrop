@@ -9,7 +9,14 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@plasmicapp/cli": "^0.1.178",
     "@plasmicapp/loader-nextjs": "^1.0.93",
+    "@plasmicapp/react-web": "^0.2.95",
+    "@plasmicpkgs/antd": "^0.0.47",
+    "@plasmicpkgs/plasmic-basic-components": "^0.0.44",
+    "@plasmicpkgs/plasmic-embed-css": "^0.1.25",
+    "@plasmicpkgs/react-parallax-tilt": "^0.0.39",
+    "antd": "^4.20.2",
     "next": "12.1.3",
     "react": "18.0.0",
     "react-dom": "18.0.0"
